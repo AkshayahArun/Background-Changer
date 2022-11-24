@@ -11,7 +11,7 @@ box=createSprite(350,350,100,100)
 }
 
 function draw() {
-background("blue")
+background("purple")
 drawSprites();
 }
 
